@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>美食 on My Blog</title>
+    <link>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on My Blog</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美食探索：家乡的味道</title>
+      <link>http://localhost:1313/posts/my-seventh-post/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-seventh-post/</guid>
+      <description>&lt;h2 id=&#34;美食介绍&#34;&gt;美食介绍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;菜品名称：&lt;/li&gt;
+&lt;li&gt;地域特色：&lt;/li&gt;
+&lt;li&gt;主要食材：&lt;/li&gt;
+&lt;li&gt;烹饪方法：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;历史渊源&#34;&gt;历史渊源&lt;/h2&gt;
+&lt;p&gt;在这里介绍这道美食的历史背景和文化意义&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;制作过程&#34;&gt;制作过程&lt;/h2&gt;
+&lt;p&gt;在这里详细记录制作步骤和关键技巧&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;特色亮点&#34;&gt;特色亮点&lt;/h2&gt;
+&lt;p&gt;在这里分析这道美食的独特之处&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;品尝体验&#34;&gt;品尝体验&lt;/h2&gt;
+&lt;p&gt;在这里分享品尝的感受和建议&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;美食故事&#34;&gt;美食故事&lt;/h2&gt;
+&lt;p&gt;在这里讲述与这道美食相关的故事和回忆&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

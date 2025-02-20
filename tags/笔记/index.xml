@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>笔记 on My Blog</title>
+    <link>http://localhost:1313/tags/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 笔记 on My Blog</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>读书笔记：与时间做朋友</title>
+      <link>http://localhost:1313/posts/my-fifth-post/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-fifth-post/</guid>
+      <description>&lt;h2 id=&#34;书籍信息&#34;&gt;书籍信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;书名：《与时间做朋友》&lt;/li&gt;
+&lt;li&gt;作者：李笑来&lt;/li&gt;
+&lt;li&gt;出版年份：2009&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;核心观点&#34;&gt;核心观点&lt;/h2&gt;
+&lt;p&gt;在这里总结书中的主要观点&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;精彩片段&#34;&gt;精彩片段&lt;/h2&gt;
+&lt;p&gt;在这里记录书中的精彩段落和语句&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;个人感悟&#34;&gt;个人感悟&lt;/h2&gt;
+&lt;p&gt;在这里写下阅读后的思考与感悟&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;实践计划&#34;&gt;实践计划&lt;/h2&gt;
+&lt;p&gt;在这里列出如何将书中的建议应用到生活中&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

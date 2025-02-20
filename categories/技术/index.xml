@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on My Blog</title>
+    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on My Blog</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技术探索</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在技术的海洋中，每一次探索都是一次成长的机会。&lt;/p&gt;
+&lt;h2 id=&#34;学习笔记&#34;&gt;学习笔记&lt;/h2&gt;
+&lt;p&gt;在这里记录你的技术学习心得&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;实践经验&#34;&gt;实践经验&lt;/h2&gt;
+&lt;p&gt;在这里分享你的实践经验&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;在这里总结你的学习收获&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

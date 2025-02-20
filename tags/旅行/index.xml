@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>旅行 on My Blog</title>
+    <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</link>
+    <description>Recent content in 旅行 on My Blog</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>旅行见闻</title>
+      <link>http://localhost:1313/posts/my-fourth-post/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-fourth-post/</guid>
+      <description>&lt;h2 id=&#34;目的地介绍&#34;&gt;目的地介绍&lt;/h2&gt;
+&lt;p&gt;在这里介绍你此次旅行的目的地&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;行程亮点&#34;&gt;行程亮点&lt;/h2&gt;
+&lt;p&gt;在这里分享旅途中的精彩时刻&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;美食探索&#34;&gt;美食探索&lt;/h2&gt;
+&lt;p&gt;在这里记录当地特色美食&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;文化体验&#34;&gt;文化体验&lt;/h2&gt;
+&lt;p&gt;在这里分享当地文化特色&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;旅行感悟&#34;&gt;旅行感悟&lt;/h2&gt;
+&lt;p&gt;在这里写下你的旅行感想与收获&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

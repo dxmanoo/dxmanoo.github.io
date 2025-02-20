@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>音乐 on My Blog</title>
+    <link>http://localhost:1313/categories/%E9%9F%B3%E4%B9%90/</link>
+    <description>Recent content in 音乐 on My Blog</description>
+    <generator>Hugo -- 0.144.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音乐分享：我最喜爱的专辑</title>
+      <link>http://localhost:1313/posts/my-sixth-post/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-sixth-post/</guid>
+      <description>&lt;h2 id=&#34;专辑信息&#34;&gt;专辑信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;专辑名称：&lt;/li&gt;
+&lt;li&gt;艺术家：&lt;/li&gt;
+&lt;li&gt;发行年份：&lt;/li&gt;
+&lt;li&gt;音乐风格：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;专辑背景&#34;&gt;专辑背景&lt;/h2&gt;
+&lt;p&gt;在这里介绍这张专辑的创作背景和历史意义&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;精选曲目&#34;&gt;精选曲目&lt;/h2&gt;
+&lt;p&gt;在这里列出并点评最喜欢的曲目&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;音乐特色&#34;&gt;音乐特色&lt;/h2&gt;
+&lt;p&gt;在这里分析专辑的音乐特点和艺术价值&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;个人感受&#34;&gt;个人感受&lt;/h2&gt;
+&lt;p&gt;在这里分享听这张专辑的感受和回忆&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;推荐理由&#34;&gt;推荐理由&lt;/h2&gt;
+&lt;p&gt;在这里说明为什么推荐这张专辑&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
